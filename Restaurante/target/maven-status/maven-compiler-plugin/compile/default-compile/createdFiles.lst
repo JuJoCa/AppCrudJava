@@ -1,0 +1,16 @@
+com\mycompany\restaurante\persistence\jpa\UsuariosJpaController.class
+com\mycompany\restaurante\persistence\entities\Categorias_.class
+com\mycompany\restaurante\persistence\entities\Proveedores_.class
+com\mycompany\restaurante\persistence\entities\Proveedores.class
+com\mycompany\restaurante\persistence\entities\Productos_.class
+com\mycompany\restaurante\persistence\jpa\exceptions\IllegalOrphanException.class
+com\mycompany\restaurante\persistence\entities\Usuarios_.class
+com\mycompany\restaurante\persistence\jpa\ProductosJpaController.class
+com\mycompany\restaurante\persistence\jpa\ProveedoresJpaController.class
+com\mycompany\restaurante\persistence\entities\Productos.class
+com\mycompany\restaurante\persistence\entities\Usuarios.class
+com\mycompany\restaurante\control\ServletRestaurante.class
+com\mycompany\restaurante\persistence\jpa\exceptions\PreexistingEntityException.class
+com\mycompany\restaurante\persistence\jpa\exceptions\NonexistentEntityException.class
+com\mycompany\restaurante\persistence\jpa\CategoriasJpaController.class
+com\mycompany\restaurante\persistence\entities\Categorias.class

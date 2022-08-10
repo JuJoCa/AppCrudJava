@@ -1,0 +1,12 @@
+C:\Users\JUAN CARVAJAL\Documents\NetBeansProjects\Restaurante\src\main\java\com\mycompany\restaurante\control\ServletRestaurante.java
+C:\Users\JUAN CARVAJAL\Documents\NetBeansProjects\Restaurante\src\main\java\com\mycompany\restaurante\persistence\jpa\exceptions\NonexistentEntityException.java
+C:\Users\JUAN CARVAJAL\Documents\NetBeansProjects\Restaurante\src\main\java\com\mycompany\restaurante\persistence\jpa\UsuariosJpaController.java
+C:\Users\JUAN CARVAJAL\Documents\NetBeansProjects\Restaurante\src\main\java\com\mycompany\restaurante\persistence\entities\Categorias.java
+C:\Users\JUAN CARVAJAL\Documents\NetBeansProjects\Restaurante\src\main\java\com\mycompany\restaurante\persistence\jpa\ProductosJpaController.java
+C:\Users\JUAN CARVAJAL\Documents\NetBeansProjects\Restaurante\src\main\java\com\mycompany\restaurante\persistence\entities\Productos.java
+C:\Users\JUAN CARVAJAL\Documents\NetBeansProjects\Restaurante\src\main\java\com\mycompany\restaurante\persistence\jpa\CategoriasJpaController.java
+C:\Users\JUAN CARVAJAL\Documents\NetBeansProjects\Restaurante\src\main\java\com\mycompany\restaurante\persistence\jpa\ProveedoresJpaController.java
+C:\Users\JUAN CARVAJAL\Documents\NetBeansProjects\Restaurante\src\main\java\com\mycompany\restaurante\persistence\entities\Proveedores.java
+C:\Users\JUAN CARVAJAL\Documents\NetBeansProjects\Restaurante\src\main\java\com\mycompany\restaurante\persistence\jpa\exceptions\IllegalOrphanException.java
+C:\Users\JUAN CARVAJAL\Documents\NetBeansProjects\Restaurante\src\main\java\com\mycompany\restaurante\persistence\jpa\exceptions\PreexistingEntityException.java
+C:\Users\JUAN CARVAJAL\Documents\NetBeansProjects\Restaurante\src\main\java\com\mycompany\restaurante\persistence\entities\Usuarios.java
